@@ -1,5 +1,5 @@
 # Hand-Gesture-recognition
-**Hand Gesture recognition Using DCNN**
+**Hand Gesture recognition Using Pytorch**
 **Introduction:** 
 The field of hand gesture detection in computer vision is captivating as it centers on 
 interpreting hand movements for seamless human-computer interaction. Deep Convolutional 
