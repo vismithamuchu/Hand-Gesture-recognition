@@ -12,7 +12,7 @@ structure, DCNNs capture both low-level visual elements like edges and textures,
 facilitating precise hand gesture recognition and classification.
 
 
-*****Objective**: ***
+**Objective**: 
 The primary objective of this project is to create an advanced hand gesture recognition system 
 using customized ResNet architectures. By designing ResNet models tailored to interpret near 
 infrared images captured by the Leap Motion sensor, the project aims to achieve seamless and 
@@ -24,7 +24,7 @@ gauge the models' performance, and their potential for enhancing human-computer 
 paradigms will be demonstrated through real-world applications.
 
 
-****Data**: **
+**Data**: 
 This project uses a rich and meticulously curated dataset obtained from the "LeapGestRecog" 
 repository on Kaggle. The dataset encompasses near infrared images capturing various hand 
 gestures performed by distinct subjects. With an organizational architecture that mirrors realworld complexities, 
